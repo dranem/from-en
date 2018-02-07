@@ -1,8 +1,8 @@
-## Ethics
+## Pamatasan
 
-Since ethics is a subject that we all have opinions about already, it is important to outline the relationship between *instinctual* ethics and *rational* ethics.
+Sukad sa pamatasan usa ka hilisgutan nga kitang tanan adunay mga opinyon mahitungod na, importante kini nga i-outline ang relasyon tali sa * instinctual * na pamatasan ug * rational * na pamatasan.
 
-A baseball player can catch a fly ball even if he knows nothing about physics. Similarly, we can correctly perceive an action as immoral even if we know nothing about ethical theories.
+Ang usa ka magdudula sa baseball mahimong makasakmit sa usa ka fly ball bisan wala siyay nahibal-an mahitungod sa pisika. Sa susama, mahimo natong hibaw-an ang sakto nga aksyon ingon imoral bisan wala kitay nahibal-an mahitungod sa ethical nga mga teorya.
 
 If I can catch a fly ball, then I have an instinctual *feel* for the behaviour of a baseball in flight. My instinctual understanding, however, does not give me the capacity to accurately launch a spaceship to orbit Jupiter. I have an immediate “little truth” – how the ball will move – but that does not give me a universal “great truth” – how matter behaves.
 
